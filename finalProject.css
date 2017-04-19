@@ -1,0 +1,15 @@
+body {
+    margin: 30px;    
+}
+
+#leftcolumn{
+	padding-top: 10px;
+	float: left;
+	clear: both;
+	width: 30%;	
+}
+
+#rightcolumn{
+	float: left;
+	width:70%;
+}
